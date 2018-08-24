@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Where I am?</string>
+    <string name="find">Find</string>
+    <string name="options">Options</string>
+    <string name="info">Info</string>
+    <string name="version" translatable="false">version xa</string>
+    <string name="back">Back</string>
+</resources>
